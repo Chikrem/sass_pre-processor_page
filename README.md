@@ -13,7 +13,6 @@ Este projeto é uma página web estática que aplica o uso de um pré-processado
 - HTML5
 - Sass (SCSS)
 - CSS3
-- JavaScript
 
 ## Como Usar
 
